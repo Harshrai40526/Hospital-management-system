@@ -4,11 +4,11 @@ features provided
 - Patient Management: Stores patient history, medical records, and treatment details for easy access.
 - Appointment Scheduling: Enables online booking, doctor availability tracking, and automated reminders.
 
-Languages used
-Html
-Css
-Javascript
-php
+Languages used -
+Html,
+Css,
+Javascript,
+php.
 
 Benifit of HMS
 
